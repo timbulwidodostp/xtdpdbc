@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'xtdpdbc': Bias corrected linear dynamic panel data estimation Use xtdpdbc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lxtdpdbc.mlib
+f xtdpdbc.ado
+f xtdpdbc.sthlp
+f xtdpdbc_estat.ado
+f xtdpdbc_p.ado
+f xtdpdbc_postestimation.sthlp
