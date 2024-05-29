@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtdpdbc Bias corrected linear dynamic panel data estimation Use xtdpdbc With STATA 18
