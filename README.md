@@ -3,6 +3,8 @@ Bias corrected linear dynamic panel data estimation Use xtdpdbc With STATA 18
 
 Bias corrected estimation of linear dynamic panel data models Use xtdpdbc With STATA 18
 
+https://www.youtube.com/watch?v=3gTB45B-zYk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
